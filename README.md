@@ -1,5 +1,10 @@
 # Halaman kelas RL Grup 2 OFA Kampus Merdeka
 
+## Buku Referensi:
+- Richard S. Sutton and Andrew G. Barto. Reinforcement Learning: An Introduction. 2020
+- Sudharsan Ravichandiran. Hands-On Reinforcement Learning with Python. 2018
+
+
 Aktivitas Kelas RL Pertemuan pertama
 1. Cari dan tuliskan satu contoh aplikasi/implementasi RL dibidang anda!
 2. Jelaskan secara singkat mengapa aplikasi tersebut merupakan aplikasi berbasis RL, jelaskan berdasarkan kesesuaian dengan karakteristik RL!
