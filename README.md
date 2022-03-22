@@ -1,4 +1,4 @@
-# Halaman kelas RL untuk Grup OFA Kampus Merdeka
+# Halaman kelas RL Grup 2 OFA Kampus Merdeka
 
 Tugas RL Pertemuan pertama
 1. Cari dan tuliskan satu contoh aplikasi/implementasi RL dibidang anda!
