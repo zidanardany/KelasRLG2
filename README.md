@@ -1,6 +1,6 @@
 # Halaman kelas RL Grup 2 OFA Kampus Merdeka
 
-Tugas RL Pertemuan pertama
+Aktivitas Kelas RL Pertemuan pertama
 1. Cari dan tuliskan satu contoh aplikasi/implementasi RL dibidang anda!
 2. Jelaskan secara singkat mengapa aplikasi tersebut merupakan aplikasi berbasis RL, jelaskan berdasarkan kesesuaian dengan karakteristik RL!
 3. Dari aplikasi tersebut, tentukan: (a) Objective (b) State (c) Action (d) Reward (e) Termination.
