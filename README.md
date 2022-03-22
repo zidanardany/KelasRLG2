@@ -22,6 +22,12 @@ Contoh, tiap kelompok terdiri dari:
 - Visioner
 - Better
 
+isikan anggota anda pada tabel gsheet berikut:
+
+https://docs.google.com/spreadsheets/d/1dgrvaF175c2N4tofKBucMDJSFtIyoY1Hmt78Fj1K8fc/edit?usp=sharing
+
+Mohon agar memodifikasi bagian yang masih kosong saja. Harap hormati orang lain.
+
 Harap Komunikasikan yang tidak mendapat kelompok.
 
 Terima Kasih.
