@@ -17,6 +17,14 @@ b. markdown
 c. pdf (dari ms word atau libreoffice)
 d. tidak menerima dokumen selain 3 format tersebut, kecuali terdapat gambar yang dilampirkan
 
+Format file pengumpulan tugas:
+
+1. KelompokXX_Tugas01
+2. Tulis nama anggota kelompok beserta kelas asal
+3. Pull Request ke branch PercyXX sesuaikan dengan Kode Percy bukan kode Kelompok!
+
+Terima kasih.
+
 Kumpulkan dengan menggunakan mekanisme github, buat kelompok dengan anggota kelas Persevere untuk mengumpulkan tugas anda. Setiap kelompok berisi 5 orang, masing-masing kelas agar dapat diwakili 1 orang dalam kelompok.
 
 Contoh, tiap kelompok terdiri dari:
