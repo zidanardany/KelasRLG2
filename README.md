@@ -44,3 +44,7 @@ Mohon agar memodifikasi bagian yang masih kosong saja. Harap hormati orang lain.
 Harap Komunikasikan yang tidak mendapat kelompok.
 
 Terima Kasih.
+
+Link dalam materi:
+https://www.youtube.com/watch?v=dJ4rWhpAGFI
+yang lain akan dirangkum di sini.
