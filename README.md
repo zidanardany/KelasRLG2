@@ -56,5 +56,7 @@ https://www.youtube.com/watch?v=dJ4rWhpAGFI
 Cari satu kasus di environment OpenAI yang bisa diselesaikan dengan Monte Carlo, pelajari programnya.
 1. Jelaskan yang anda pahami tentang mekanisme kerja dari program tersebut!
 
+Link dalam materi:
+http://rl-lab.com/gridworld-mc
 
 yang lain akan dirangkum di sini.
