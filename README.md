@@ -6,7 +6,8 @@
 
 
 ## Aktivitas Kelas RL Pertemuan pertama
-** Pengumpulan Tugas 1 April 2022, sebelum pindah hari / tanggal. **
+**Pengumpulan Tugas 1 April 2022, sebelum pindah hari / tanggal.**
+
 1. Cari dan tuliskan satu contoh aplikasi/implementasi RL dibidang anda!
 2. Jelaskan secara singkat mengapa aplikasi tersebut merupakan aplikasi berbasis RL, jelaskan berdasarkan kesesuaian dengan karakteristik RL!
 3. Dari aplikasi tersebut, tentukan: (a) Objective (b) State (c) Action (d) Reward (e) Termination.
@@ -51,6 +52,7 @@ https://www.youtube.com/watch?v=dJ4rWhpAGFI
 
 ## Aktivitas Kelas RL Pertemuan Keempat (4)
 **Pengumpulan Tugas (menyusul)**
+
 Cari satu kasus di environment OpenAI yang bisa diselesaikan dengan Monte Carlo, pelajari programnya.
 1. Jelaskan yang anda pahami tentang mekanisme kerja dari program tersebut!
 
