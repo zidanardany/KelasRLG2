@@ -13,6 +13,20 @@
 3. Dari aplikasi tersebut, tentukan: (a) Objective (b) State (c) Action (d) Reward (e) Termination.
 4. Berdasarkan 3 nomor diatas, utarakan/jelaskan  pemahaman anda tentang RL, terkait karakteristik, derajat kemudahan/kesulitan untuk diaplikasikan menyelesaikan masalah riil dst.
 
+Link dalam materi:
+https://www.youtube.com/watch?v=dJ4rWhpAGFI
+
+
+## Aktivitas Kelas RL Pertemuan Keempat (4)
+**Pengumpulan Tugas (menyusul)**
+
+Cari satu kasus di environment OpenAI yang bisa diselesaikan dengan Monte Carlo, pelajari programnya.
+1. Jelaskan yang anda pahami tentang mekanisme kerja dari program tersebut!
+
+Link dalam materi:
+http://rl-lab.com/gridworld-mc
+
+## Mekanisme Pengumpulan Tugas
 Format dokumen dapat berupa, berurut berdasarkan prioritas:
 a. text
 b. markdown
@@ -37,7 +51,6 @@ Contoh, tiap kelompok terdiri dari:
 - Better
 
 isikan anggota anda pada tabel gsheet berikut:
-
 https://docs.google.com/spreadsheets/d/1dgrvaF175c2N4tofKBucMDJSFtIyoY1Hmt78Fj1K8fc/edit?usp=sharing
 
 Mohon agar memodifikasi bagian yang masih kosong saja. Harap hormati orang lain.
@@ -45,18 +58,5 @@ Mohon agar memodifikasi bagian yang masih kosong saja. Harap hormati orang lain.
 Harap Komunikasikan yang tidak mendapat kelompok.
 
 Terima Kasih.
-
-Link dalam materi:
-https://www.youtube.com/watch?v=dJ4rWhpAGFI
-
-
-## Aktivitas Kelas RL Pertemuan Keempat (4)
-**Pengumpulan Tugas (menyusul)**
-
-Cari satu kasus di environment OpenAI yang bisa diselesaikan dengan Monte Carlo, pelajari programnya.
-1. Jelaskan yang anda pahami tentang mekanisme kerja dari program tersebut!
-
-Link dalam materi:
-http://rl-lab.com/gridworld-mc
 
 yang lain akan dirangkum di sini.
