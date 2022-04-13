@@ -4,6 +4,15 @@
 - Richard S. Sutton and Andrew G. Barto. Reinforcement Learning: An Introduction. 2020
 - Sudharsan Ravichandiran. Hands-On Reinforcement Learning with Python. 2018
 
+## Code:
+01DPFrozenLake.ipynb	Dynamic Programming using FrozenLake env. Contain Policy, Iteration Value Iteration and play the game using policy from training.
+01DPPIFrozenLake.ipynb	Training Session only using Policy Iteration
+01DPVIFrozenLake.ipynb	Training Session only using Value Iteration
+02MCFrozenLake.ipynb	Training Session using Monte Carlo.
+03QLFrozenLake.ipynb	Training Session using Q Learning (Temporal Difference)
+06annTutorialLinear.ipynb	Review how ANN work modeling linear function
+06annTutorialnonLinear.ipynb	Review how ANN work modeling nonlinear function
+
 
 ## Aktivitas Kelas RL Pertemuan pertama
 **Pengumpulan Tugas Kelompok 1 April 2022, sebelum pindah hari / tanggal.**
