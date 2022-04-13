@@ -5,13 +5,14 @@
 - Sudharsan Ravichandiran. Hands-On Reinforcement Learning with Python. 2018
 
 ## Code:
-01DPFrozenLake.ipynb	Dynamic Programming using FrozenLake env. Contain Policy, Iteration Value Iteration and play the game using policy from training.
-01DPPIFrozenLake.ipynb	Training Session only using Policy Iteration
-01DPVIFrozenLake.ipynb	Training Session only using Value Iteration
-02MCFrozenLake.ipynb	Training Session using Monte Carlo.
-03QLFrozenLake.ipynb	Training Session using Q Learning (Temporal Difference)
-06annTutorialLinear.ipynb	Review how ANN work modeling linear function
-06annTutorialnonLinear.ipynb	Review how ANN work modeling nonlinear function
+- 01DPFrozenLake.ipynb	Dynamic Programming using FrozenLake env. Contain Policy, Iteration Value Iteration and play the game using policy from training.
+- 01DPPIFrozenLake.ipynb	Training Session only using Policy Iteration
+- 01DPVIFrozenLake.ipynb	Training Session only using Value Iteration
+- 02MCFrozenLake.ipynb	Training Session using Monte Carlo.
+- 03QLFrozenLake.ipynb	Training Session using Q Learning (Temporal Difference)
+- 06annTutorialLinear.ipynb	Review how ANN work modeling linear function
+- 06annTutorialnonLinear.ipynb	Review how ANN work modeling nonlinear function
+- 06annTutorialnonLinear.ipynb	Review how ANN work modeling nonlinear function
 
 
 ## Aktivitas Kelas RL Pertemuan pertama
